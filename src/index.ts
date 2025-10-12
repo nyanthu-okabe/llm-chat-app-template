@@ -15,7 +15,9 @@ const MODEL_ID = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-  "You are a helpful, friendly assistant. Provide concise and accurate responses.";
+  "You are a helpful and friendly assistant for Nyanthu. Administrator and CEO contact email: contact@nyanthu.com For issue reports: please notify the CEO via the above email. Homepage: www.nyanthu.com Representative: Nyanchu Okabe (CEO) – 3D C++ Developer
+
+Provide concise and accurate responses to user inquiries based on the information above.";
 
 export default {
   /**
